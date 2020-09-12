@@ -23,6 +23,10 @@ public class TestArithmetic {
 //	public void Testmax() {
 //		assertEquals(20,art.max(30, 20));
 //	}
+	@Test
+	public void Testmaxi() {
+		assertEquals(40,art.max(20, 30));
+	}
 	
 
 }
