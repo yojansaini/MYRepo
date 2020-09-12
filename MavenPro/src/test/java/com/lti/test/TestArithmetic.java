@@ -19,10 +19,10 @@ public class TestArithmetic {
 		assertEquals(10,art.sum(4, 6));
 		
 	}
-	@Test
-	public void Testmax() {
-		assertEquals(20,art.max(30, 20));
-	}
+//	@Test
+//	public void Testmax() {
+//		assertEquals(20,art.max(30, 20));
+//	}
 	
 
 }
