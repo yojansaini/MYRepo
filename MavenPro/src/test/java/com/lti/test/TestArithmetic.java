@@ -17,6 +17,11 @@ public class TestArithmetic {
 	@Test
 	public void TestSum() {
 		assertEquals(10,art.sum(4, 6));
+		
+	}
+	@Test
+	public void Testmax() {
+		assertEquals(20,art.max(30, 20));
 	}
 	
 
