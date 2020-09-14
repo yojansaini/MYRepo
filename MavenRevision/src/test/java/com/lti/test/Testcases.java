@@ -1,16 +1,16 @@
 package com.lti.test;
-
 import static org.junit.Assert.assertEquals;
 
 import org.junit.*;
 
-import com.lti.code.Testrevision;
+import com.lti.code.Revision;
 
-public class testage {
- private Testrevision rev;
+
+public class Testcases {
+ private Revision rev;
  @Before
  public void inint() {
-	 rev= new Testrevision();
+	 rev= new Revision();
  }
  @Test
  public void age() {

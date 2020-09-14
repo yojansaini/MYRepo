@@ -1,6 +1,6 @@
 package com.lti.code;
 
-public class Testrevision {
+public class Revision {
 	public int ageupdate(int age, int years) {
 		return age+years;
 	}
